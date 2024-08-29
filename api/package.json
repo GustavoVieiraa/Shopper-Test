@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Shopper Test Project by Gusta [NodeJS, MongoDB with TypeScript]",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Vieira",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.17.1",
+    "axios": "^1.7.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.6.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.1",
+    "nodemon": "^3.1.4"
+  },
+  "keywords": []
+}
