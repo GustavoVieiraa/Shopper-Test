@@ -1,2 +1,3 @@
-# Shopper-Test
-Development of the Shopper Technical Test Project
+<div align="center">
+  <h1>Shopper - Test</h1>
+</div>
